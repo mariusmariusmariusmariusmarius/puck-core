@@ -12437,7 +12437,7 @@ var HeaderInner = ({
             onPublish && onPublish(data);
           },
           icon: /* @__PURE__ */ (0, import_jsx_runtime80.jsx)(Globe, { size: "14px" }),
-          children: "Publish TEST-123"
+          children: "Publish"
         }
       ) }) }),
       children: /* @__PURE__ */ (0, import_jsx_runtime80.jsx)(
