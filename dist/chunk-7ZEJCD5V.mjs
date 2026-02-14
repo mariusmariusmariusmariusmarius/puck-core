@@ -6618,7 +6618,7 @@ var HeaderInner = ({
             onPublish && onPublish(data);
           },
           icon: /* @__PURE__ */ jsx42(Globe, { size: "14px" }),
-          children: "Publish"
+          children: "Publish TEST-123"
         }
       ) }) }),
       children: /* @__PURE__ */ jsx42(
